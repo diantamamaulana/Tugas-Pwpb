@@ -1,0 +1,7 @@
+<resources>
+    <string name="app_name">Pendaftaran</string>
+    <string name="nama">Nama</string>
+    <string name="asal_sekolah">Asal Sekolah</string>
+    <string name="alamat">alamat</string>
+    <string name="cetak">Cetak</string>
+</resources>
